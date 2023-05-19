@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UTS_BotNav&amp;RecView</string>
+    <string name="char_name">Nama Karakter</string>
+    <string name="char_desc">Deskripsi Karakter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //nama char
+    <string name="atv">ATV</string>
+    <string name="cruiser">Cruiser</string>
+    <string name="dirtbike">Dirtbike</string>
+    <string name="dualbike">Dualbike</string>
+    <string name="motocross">Motocross</string>
+    <string name="nakedbike">Naked Bike</string>
+    <string name="scrambler">Scrambler</string>
+    <string name="skuter">Skuter</string>
+    <string name="sportbike">Sportbike</string>
+    <string name="sporttouring">Sporttouring</string>
+    //desc char
+    <string name="desc_atv">Ini Motor Atv</string>
+    <string name="desc_cruiser">Ini Motor Cruiser</string>
+    <string name="desc_dirtbike">Ini Motor Dirtbike</string>
+    <string name="desc_dualbike">Ini Motor Dualbike</string>
+    <string name="desc_motocross">Ini Motor Motor Cross</string>
+    <string name="desc_nakedbike">Ini Motor Nakedbike</string>
+    <string name="desc_scrambler">Ini Motor Scrambler</string>
+    <string name="desc_skuter">Ini Motor Skuter</string>
+    <string name="desc_sportbike">Ini Motor Sport Bike</string>
+    <string name="desc_sporttouring">Ini Motor Sport Touring</string>
+    //profile
+    <string name="devi">Devi Novita Sari</string>
+    <string name="desc_devi">NIM : 2010031806010  E-Mail : devinovotasari10@gmail.com</string>
+</resources>
+
